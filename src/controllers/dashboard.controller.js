@@ -8,7 +8,7 @@ import { asyncHandler } from "../utils/asyncHandler.js";
 import httpStatus from "../utils/http.status.js";
 
 const getChannelStats = asyncHandler(async (req, res) => {
-  
+  // TODO: complete this 
   // TODO: Get the channel stats like total video views, total subscribers, total videos, total likes etc.
 });
 
