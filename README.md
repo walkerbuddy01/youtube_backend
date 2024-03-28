@@ -16,8 +16,7 @@ Welcome to the backend of YouTube built with Express and Node.js! This backend p
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your_username/youtube-backend.git
-   cd youtube-backend
+   git clone [https://github.com/walkerbuddy01/youtube_backend/tree/928749c0536a904a8c593cc80b66d118cd54e7ba]
    ```
 
 2. **Install Dependencies:**
