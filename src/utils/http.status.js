@@ -1,0 +1,7 @@
+const HTTP_STATUS = {
+  OK: 200,
+  NOT_FOUND: 404,
+  UNAUTHORIZED: 401,
+  SERVER_ERROR: 500,
+};
+export default HTTP_STATUS;
